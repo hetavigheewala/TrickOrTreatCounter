@@ -1,1 +1,3 @@
 # TrickOrTreatCounter
+
+This Python code defines a function `get_valid_integer_input` to get valid positive integer inputs from the user. The `main` function utilizes this input-validation function to gather the number of lanes visited for trick-or-treating. It then proceeds to iterate through each lane, prompting the user for the number of candies collected from each house. The program calculates the total candies and the average candies per lane. The results are displayed, including the total candies and the average candies per lane. The code ensures that user inputs are validated and provides organized information about candies collected during trick-or-treating.
